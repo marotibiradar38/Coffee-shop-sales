@@ -121,7 +121,7 @@ This dashboard demonstrates proficiency in:
 * Data cleaning and preparation
 * Dynamic Excel dashboard creation
 * Insight generation for decision-makers
-
+https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Dashboard%20of%20coffee%20sales%20analyis%20.jpg
 Perfect for portfolio building, interviews, and practical data analytics learning.
 
 ---
