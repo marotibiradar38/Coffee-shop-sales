@@ -125,9 +125,9 @@ This dashboard demonstrates proficiency in:
 Perfect for portfolio building, interviews, and practical data analytics learning.
 
 ---
-
+more information 
 ## 🙌 **Author**
-
+Maroti biradar
 **Maroti Biradar**
 Data Analyst | Excel | SQL | Power BI | Python
 
