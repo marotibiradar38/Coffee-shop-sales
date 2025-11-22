@@ -1,4 +1,4 @@
-# Coffee-shop-sales
+# Coffee-shop-sales project
 
 # **☕ Coffee Shop Sales Dashboard (Jan–Jun) —  Data Analytics Project**
 
