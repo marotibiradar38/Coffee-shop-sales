@@ -32,7 +32,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 * **Average Items per Person:** 1.44
 * **Top Performing Categories & Product Types**
 * **Hourly Order Trend** (Peak hours 8 AM – 12 PM)
-* **Size Distribution Analysis (Regular, Large, Undefined, etc.)**
+* **Size Distribution Analysis (Regular, Large, Undefined, etc).**
 
 ---
 
