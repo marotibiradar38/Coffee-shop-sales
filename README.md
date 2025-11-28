@@ -10,7 +10,7 @@ The dashboard converts raw transactional data into clear, actionable insights fo
 ## 📂 **Project Overview**
 
 This project explores key sales metrics from **January to June**, highlighting customer footfall, sales patterns, product category contributions, order size preferences, and top-selling items.
-The goal is to demonstrate real-world **data cleaning, visualization, and business analytics** skills within a Excel.
+The goal is to demonstrate real-world **data cleaning, visualization, and business analytics** skills within  Excel.
 
 ---
 
