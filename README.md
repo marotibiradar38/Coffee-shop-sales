@@ -16,7 +16,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 
 ## 🚀 **Features of the Dashboard** 
 
-✔ *Interactive slicers* for Month, Product Category, Store Location, Size, and Product Types
+✔ *Interactive slicers* for Month, Product Category, Store Location, Size, and Product Types 
 ✔ *Dynamic charts and KPIs* connected through Excel tables
 ✔ *Pivot Tables & Pivot Charts* for automatic updates
 ✔ *Auto-refresh summaries* to ensure clean and consistent reporting
