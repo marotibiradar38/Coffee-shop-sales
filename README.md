@@ -24,7 +24,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 
 ---
 
-## 📊 **Key Metrics Displayed**
+## 📊 **Key Metrics Displayed** 
 
 * **Total Sales:** $698,812.33
 * **Total Footfall:** 149,116
