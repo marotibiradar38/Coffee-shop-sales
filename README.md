@@ -1,6 +1,6 @@
 # Coffee-shop-sales project
 
-# **☕ Coffee Shop Sales Dashboard (Jan–Jun) —  Data Analytics Project**
+# **☕ Coffee Shop Sales Dashboard (Jan–Jun) —  Data Analytics Project** 
 
 This repository contains a fully interactive **Coffee Shop Sales Dashboard** built in **Microsoft Excel**, analyzing six months of sales, customer behavior, and product performance.
 The dashboard converts raw transactional data into clear, actionable insights for decision-making across **operations, marketing, and inventory management**.
