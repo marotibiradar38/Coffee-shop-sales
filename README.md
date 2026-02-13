@@ -20,7 +20,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 ✔ *Dynamic charts and KPIs* connected through Excel tables
 ✔ *Pivot Tables & Pivot Charts* for automatic updates 
 ✔ *Auto-refresh summaries* to ensure clean and consistent reporting
-✔ *Professional layout with clear design and minimalistic theme.
+✔ *Professional layout with clear design and minimalistic theme. 
 
 ---
 
