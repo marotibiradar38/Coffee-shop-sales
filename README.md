@@ -18,7 +18,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 
 ✔ *Interactive slicers* for Month, Product Category, Store Location, Size, and Product Types 
 ✔ *Dynamic charts and KPIs* connected through Excel tables
-✔ *Pivot Tables & Pivot Charts* for automatic updates
+✔ *Pivot Tables & Pivot Charts* for automatic updates 
 ✔ *Auto-refresh summaries* to ensure clean and consistent reporting
 ✔ *Professional layout with clear design and minimalistic theme.
 
