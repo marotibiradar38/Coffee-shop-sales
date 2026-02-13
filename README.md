@@ -37,7 +37,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 ---
 
 ## 📈 **Insights Generated**
-
+ 
 ### **1. Hourly Order Trends (Operations)**
 
 * Orders peak between **8 AM – 12 PM**, especially at 10 AM.
