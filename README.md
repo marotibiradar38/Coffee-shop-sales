@@ -14,7 +14,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 
 --- 
 
-## 🚀 **Features of the Dashboard** 
+## 🚀 **Features of the Dashboard**  
 
 ✔ *Interactive slicers* for Month, Product Category, Store Location, Size, and Product Types 
 ✔ *Dynamic charts and KPIs* connected through Excel tables
