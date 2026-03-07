@@ -13,7 +13,7 @@ This project explores key sales metrics from **January to June**, highlighting c
 The goal is to demonstrate real-world **data cleaning, visualization, and business analytics** skills within a Excel. 
    
 --- 
-
+      
 ## 🚀 **Features of the Dashboard**  
 
 ✔ *Interactive slicers* for Month, Product Category, Store Location, Size, and Product Types 
