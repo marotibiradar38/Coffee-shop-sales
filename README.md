@@ -82,7 +82,16 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 ---
 
 ## 📑 **Project Files**
+## 📂 Project Files
 
+🔹 Dataset  
+https://github.com/username/project-name/blob/main/dataset.csv  
+
+🔹 Power BI Dashboard  
+https://github.com/username/project-name/blob/main/dashboard.pbix  
+
+🔹 Project Report  
+https://github.com/username/project-name/blob/main/report.pdf
 ```
 📁 Coffee-Shop-Sales-Dashboard/
 │
