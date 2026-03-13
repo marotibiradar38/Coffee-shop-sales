@@ -87,7 +87,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 🔹 Dataset
 https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/coffee%20shop%20sales%20(1).xlsx
 🔹 Power BI Dashboard  
-https://github.com/username/project-name/blob/main/dashboard.pbix  
+https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Dashboard%20of%20coffee%20sales%20analyis%20.jpg
 
 🔹 Project Report  
 https://github.com/username/project-name/blob/main/report.pdf
