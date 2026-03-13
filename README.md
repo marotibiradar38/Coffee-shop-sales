@@ -13,7 +13,18 @@ This project explores key sales metrics from **January to June**, highlighting c
 The goal is to demonstrate real-world **data cleaning, visualization, and business analytics** skills within a Excel. 
    
 --- 
-      
+ ## 📑 **Project Files**
+## 📂 Project Files
+
+🔹 Dataset
+https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/coffee%20shop%20sales%20(1).xlsx
+
+🔹 Power BI Dashboard  
+https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Dashboard%20of%20coffee%20sales%20analyis%20.jpg
+
+🔹 Project Report  
+https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Report%20of%20coffee%20sales%20analysis.pdf 
+
 ## 🚀 **Features of the Dashboard**  
 
 ✔ *Interactive slicers* for Month, Product Category, Store Location, Size, and Product Types 
@@ -82,16 +93,7 @@ The goal is to demonstrate real-world **data cleaning, visualization, and busine
 ---
 
 ## 📑 **Project Files**
-## 📂 Project Files
 
-🔹 Dataset
-https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/coffee%20shop%20sales%20(1).xlsx
-🔹 Power BI Dashboard  
-https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Dashboard%20of%20coffee%20sales%20analyis%20.jpg
-
-🔹 Project Report  
-https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Report%20of%20coffee%20sales%20analysis.pdf
-```
 📁 Coffee-Shop-Sales-Dashboard/
 │
 ├── Data/                   # Cleaned dataset (CSV/Excel)
