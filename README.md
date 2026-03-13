@@ -90,7 +90,7 @@ https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/coffee%20shop%20s
 https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Dashboard%20of%20coffee%20sales%20analyis%20.jpg
 
 🔹 Project Report  
-https://github.com/username/project-name/blob/main/report.pdf
+https://github.com/marotibiradar38/Coffee-shop-sales/blob/main/Report%20of%20coffee%20sales%20analysis.pdf
 ```
 📁 Coffee-Shop-Sales-Dashboard/
 │
