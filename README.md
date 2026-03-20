@@ -6,7 +6,7 @@ This repository contains a fully interactive **Coffee Shop Sales Dashboard** bui
 The dashboard converts raw transactional data into clear, actionable insights for decision-making across **operations, marketing, and inventory management**. 
     
 ---    
-  
+     
 ## 📂 **Project Overview**   
 
 This project explores key sales metrics from **January to June**, highlighting customer footfall, sales patterns, product category contributions, order size preferences, and top-selling items.
